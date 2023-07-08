@@ -1,0 +1,29 @@
+h1 {
+    color: gold;
+    background-color: darkgrey;
+    text-align: center;
+}
+
+li {
+    list-style: none;
+    padding: 12px 0 12px 48px;
+    
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 40px;
+}
+
+.pizza {background-image: url('../img/pizza.jpg');}
+.salad {background-image: url('../img/salad.png');}
+.gyro  {background-image: url('../img/gyro.png');}
+
+h2 {
+    background-color: aquamarine;
+    color: black;
+    padding: 20px;
+    border: 20px solid teal;
+    margin: 20px;
+    height: 100px;
+    width: 400px;
+
+}
