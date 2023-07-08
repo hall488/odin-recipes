@@ -1,0 +1,7 @@
+.section {
+    margin: 10px 10px;
+    border: 8px solid black;
+    padding: 8px;
+    display: inline-block;
+    vertical-align: top;
+}
